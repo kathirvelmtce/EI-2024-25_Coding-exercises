@@ -44,7 +44,7 @@ smart-home-system/
 ## Prerequisites
 
 - Java JDK 18 or higher
-- Maven 4.0 or higher
+- Maven 3.6 or higher
 
 ## Setup
 
