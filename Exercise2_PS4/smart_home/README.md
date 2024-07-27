@@ -14,33 +14,6 @@ The Smart Home System is a Java-based application that simulates the control and
 - Logging of system actions
 - Unit tests for core functionality
 
-## Project Structure
-
-smart-home-system/
-│
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/
-│   │   │       └── smarthome/
-│   │   │           ├── core/
-│   │   │           ├── devices/
-│   │   │           ├── factory/
-│   │   │           └── demo/
-│   │   │
-│   │   └── resources/
-│   │
-│   └── test/
-│       ├── java/
-│       │   └── com/
-│       │       └── smarthome/
-│       │
-│       └── resources/
-│
-├── pom.xml
-│
-└── README.md
-
 ## Prerequisites
 
 - Java JDK 18 or higher
