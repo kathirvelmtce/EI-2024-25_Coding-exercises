@@ -63,6 +63,8 @@ system.addTrigger("main_thermostat > 75", "turnOn(living_room_light)");
 // Start the system
 system.start();
 
+
+```
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
