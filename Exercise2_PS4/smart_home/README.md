@@ -22,23 +22,33 @@ The Smart Home System is a Java-based application that simulates the control and
 ## Setup
 
 1. Clone the repository:
+```
 git clone https://github.com/kathirvelmtce/EI-2024-25_Coding-exercises.git
+```
 
 2. Navigate to the project directory:
+```
 cd smart-home-system
+```
 
 3. Build the project:
+```
 mvn clean install
+```
 
 ## Running the Application
 
 To run the demo application:
+```
 mvn exec:java -Dexec.mainClass="com.ex2.demo.SmartHomeDemo"
+```
 
 ## Running Tests
 
 To run the unit tests:
+```
 mvn test
+```
 
 ## Usage
 
