@@ -14,6 +14,35 @@ The Smart Home System is a Java-based application that simulates the control and
 - Logging of system actions
 - Unit tests for core functionality
 
+## Project Structure
+
+```
+smart_home/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── ex2/
+│   │   │           ├── core/
+│   │   │           ├── devices/
+│   │   │           ├── factory/
+│   │   │           └── demo/
+│   │   │
+│   │   └── resources/
+│   │
+│   └── test/
+│       ├── java/
+│       │   └── com/
+│       │       └── ex2/
+│       │
+│       └── resources/
+│
+├── pom.xml
+│
+└── README.md
+```
+
 ## Prerequisites
 
 - Java JDK 18 or higher
@@ -28,7 +57,7 @@ git clone https://github.com/kathirvelmtce/EI-2024-25_Coding-exercises.git
 
 2. Navigate to the project directory:
 ```
-cd smart-home-system
+cd smart_home
 ```
 
 3. Build the project:
